@@ -82,7 +82,7 @@ By leveraging **TF-IDF**, **Naive Bayes**, and a **Deep Learning Neural Network*
 - Evaluated performance using **accuracy**, **precision**, **recall**, and **F1-score**.
 
 ### 🪜 **Step 9: Deep Learning Model**
-- Built a **Sequential Neural Network** using **Keras**:
+- Built a **Sequential Neural Network** using **Keras**.
 - Visualized **accuracy** and **loss** trends using **line charts**.  
 - Evaluated model performance on **validation data**.
 
