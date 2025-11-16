@@ -103,11 +103,4 @@ By leveraging **TF-IDF**, **Naive Bayes**, and a **Deep Learning Neural Network*
 
 ---
 
-## 📁 **Dataset Information**
 
-- **Dataset Used:** `ResumeDataset.csv`  
-- **Columns:**
-  - 🏷️ **Category:** Job role label  
-  - 📄 **Resume:** Candidate’s resume text content
-
----
